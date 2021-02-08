@@ -1,0 +1,13 @@
+C:\Users\Nele\source\repos\Umformungsrechner\Umformungsrechner\bin\Debug\Umformungsrechner.exe.config
+C:\Users\Nele\source\repos\Umformungsrechner\Umformungsrechner\bin\Debug\Umformungsrechner.exe
+C:\Users\Nele\source\repos\Umformungsrechner\Umformungsrechner\bin\Debug\Umformungsrechner.pdb
+C:\Users\Nele\source\repos\Umformungsrechner\Umformungsrechner\obj\Debug\Umformungsrechner.csprojAssemblyReference.cache
+C:\Users\Nele\source\repos\Umformungsrechner\Umformungsrechner\obj\Debug\Umformungsrechner.FormAuswahl.resources
+C:\Users\Nele\source\repos\Umformungsrechner\Umformungsrechner\obj\Debug\Umformungsrechner.Properties.Resources.resources
+C:\Users\Nele\source\repos\Umformungsrechner\Umformungsrechner\obj\Debug\Umformungsrechner.Währung.resources
+C:\Users\Nele\source\repos\Umformungsrechner\Umformungsrechner\obj\Debug\Umformungsrechner.csproj.GenerateResource.cache
+C:\Users\Nele\source\repos\Umformungsrechner\Umformungsrechner\obj\Debug\Umformungsrechner.csproj.CoreCompileInputs.cache
+C:\Users\Nele\source\repos\Umformungsrechner\Umformungsrechner\obj\Debug\Umformungsrechner.exe
+C:\Users\Nele\source\repos\Umformungsrechner\Umformungsrechner\obj\Debug\Umformungsrechner.pdb
+C:\Users\Nele\source\repos\Umformungsrechner\Umformungsrechner\obj\Debug\Umformungsrechner.Länge.resources
+C:\Users\Nele\source\repos\Umformungsrechner\Umformungsrechner\obj\Debug\Umformungsrechner.Gewicht.resources
